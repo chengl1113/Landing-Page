@@ -1,0 +1,36 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.header{
+    background-color: #1F2937;
+    margin: 0px;
+    border: 0px;
+    
+}
+
+.logo{
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9faf8;
+}
+
+.subtext{
+    font-size: 18px;
+    color: #E5e7eb;
+}
+
+button{
+    background-color: #3882f6;
+    border-radius: 4px;
+}
