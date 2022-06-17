@@ -1,6 +1,12 @@
+body{
+    margin: 0;
+    font-family: sans-serif
+}
+
 a {
     text-decoration: none;
-    color: white;
+    color: #E5e7eb;
+    font-size: 18px;
 }
 
 ul{
@@ -17,6 +23,7 @@ ul{
 .logo{
     color: #F9FAF8;
     font-size: 24px;
+    font-weight: bold;
 }
 
 .title{
@@ -33,4 +40,19 @@ ul{
 button{
     background-color: #3882f6;
     border-radius: 4px;
+}
+
+.header .top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.right-links{
+    display: flex;
+    gap: 18px;
+}
+
+.header .middle{
+    display: flex;
 }
