@@ -26,7 +26,7 @@ ul{
     font-weight: bold;
     margin-left: 50px;
     width: 150px;
-    
+
     
 }
 
@@ -41,11 +41,13 @@ ul{
     color: #E5e7eb;
 }
 
-button{
+.header button{
     background-color: #3882f6;
     border-radius: 4px;
     width: 100px;
+    height: 25px;
     color: white;
+    border: white;
 }
 
 .header .top{
@@ -172,6 +174,9 @@ button{
     border: solid white;
     border-radius: 8px;
     max-height: 50px;
+    background-color:#3882f6;
+    color: white;
+    width: 100px;
 }
 
 .footer{
